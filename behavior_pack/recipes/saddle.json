@@ -1,8 +1,8 @@
 {
   "format_version": "1.20",
   "minecraft:recipe_shaped": {
-    "description" {
-      "identifier": "cmdr:saddle"
+    "description": {
+      "identifier": "minecraft:saddle"
     },
     "tags": ["crafting_table"],
     "pattern": [
@@ -20,6 +20,9 @@
       "I": {
         "item": "minecraft:iron_ingot"
       }
+    },
+    "result": {
+      "item": "minecraft:saddle"
     }
   }
 }
