@@ -1,0 +1,11 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "minecraft:furnace_dragon_breath"
+    },
+    "tags": ["soul_campfire"],
+    "input": "minecraft:dragon_breath",
+    "output": "minecraft:experience_bottle"
+  }
+}
