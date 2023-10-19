@@ -1,0 +1,23 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "minecraft:chainmail_leggings"
+      },
+      "tags": ["crafting_table"],
+      "pattern": [
+        "NNN",
+        "N N",
+        "N N"
+      ],
+      "key": {
+        "N": {
+          "item": "minecraft:iron_nugget"
+        }
+      },
+      "result": {
+        "item": "minecraft:chainmail_leggings"
+      }
+    }
+}
+  
