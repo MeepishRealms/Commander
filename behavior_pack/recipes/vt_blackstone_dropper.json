@@ -1,0 +1,25 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "vt:blackstone_dropper"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "###",
+      "# #",
+      "#R#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:blackstone"
+      },
+      "R": {
+        "item": "minecraft:redstone"
+      }
+    },
+    "result": {
+      "item": "minecraft:dropper"
+    }
+  }
+}
