@@ -1,0 +1,17 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shapeless": {
+      "description": {
+      "identifier": "vt:string"
+      },
+      "ingredients": [
+        {
+          "item": "minecraft:white_wool"
+        }
+      ],
+      "result": {
+        "item": "minecraft:string",
+        "count": 4
+      }
+    }
+  }
