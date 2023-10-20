@@ -1,9 +1,10 @@
 # Commander
 A balancing and quality-of-life behavior pack for Minecraft Bedrock.
-Adds and tweaks crafting recipes.
+All-in-one backend to power community survival PVP Minecraft servers.
 
-Here's a few things that Commander adds:
-- Quality-of-life recipes like unpacking ice.
+Here's a few things that Commander does:
+- Powers series defining features like the world border.
+- Adds quality-of-life recipes like unpacking ice.
 - Adds recipes to previously uncraftable items like saddles.
 - Balances progression by changing certain recipes like Enchanting Tables.
 
@@ -14,3 +15,4 @@ Please note that some commits may not have been pushed onto the server yet and a
 
 ## Credits
 Certain recipes and resources come from [Vanilla Tweaks](https://vanillatweaks.net/). Check them out!
+World Border adapted from [How To Make a Simple WORLD BORDER in Minecraft Bedrock!](https://www.youtube.com/watch?v=FuCK1e7d_as&t=1s) by [silentwisperer](https://www.youtube.com/@silentwisperer).
