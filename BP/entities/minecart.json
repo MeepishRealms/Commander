@@ -20,7 +20,7 @@
 				"height": 0.7
 			},
 			"minecraft:rail_movement": {
-				"max_speed": 5
+				"max_speed": 6
 			},
 			"minecraft:rideable": {
 				"seat_count": 1,
