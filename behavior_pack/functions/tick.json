@@ -2,6 +2,6 @@
     "values": [
         "border", 
         "warning", 
-        "forbiddenitems"
+        "itembans"
     ]
 }
