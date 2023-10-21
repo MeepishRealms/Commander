@@ -17,7 +17,6 @@ Please note that some commits may not have been pushed onto the server yet and a
 ## Credits
 Disclaimer: Commander is not for public use, and is open sourced only to allow auditing from server members. Some assets and code are adapted from other projects. Do not redistribute. Download the following packs individually. 
 - Death Coordinates module adapted from MyNameIsDIG's [Death Coordinates with Dimension](https://mcpedl.com/mynameisdig-death-coordinates/) pack.
-- Nether coodinates calculator module adapted from MyNameIsDIG's [Netherify](https://mcpedl.com/mynameisdig-netherify/) pack. 
 - Certain recipes and resources come from [Vanilla Tweaks](https://vanillatweaks.net/). Check them out!
 - World Border adapted from [How To Make a Simple WORLD BORDER in Minecraft Bedrock!](https://www.youtube.com/watch?v=FuCK1e7d_as&t=1s) by [silentwisperer](https://www.youtube.com/@silentwisperer).
 - Minecart Tweaks adapted from [Faster Minecarts Addon](https://mcpedl.com/faster-minecarts-addon/) by MadMinecraftModder.
