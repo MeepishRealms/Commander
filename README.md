@@ -7,6 +7,7 @@ Here's a few things that Commander does:
 - Adds quality-of-life recipes like unpacking ice.
 - Adds recipes to previously uncraftable items like saddles.
 - Balances progression by changing certain recipes like Enchanting Tables.
+- Adds ways to obtain previously unobtainable blocks like Glowing Obsidian.
 
 All code and commits are open source and fully auditable.
 The version currently active on the MECA Minecraft server always corresponds to the [latest](https://github.com/MeepishRealms/Commander/releases/latest) version.
