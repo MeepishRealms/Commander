@@ -15,6 +15,8 @@ The version currently active on the MECA Minecraft server always corresponds to 
 Please note that some commits may not have been pushed onto the server yet and are subject to change, so make sure to always check the latest release tag, not the latest main branch commits. (Unless you're trying to get some sneak peeks!)
 
 ## Credits
+Disclaimer: Commander is not for public use, and is open sourced only to allow auditing from server members. Do not redistribute. Download the following packs individually.
+- Death Coordinates module adapted from MyNameIsDIG's pack. Please download [Death Coordinates with Dimension](https://mcpedl.com/mynameisdig-death-coordinates/) individually instead of using this pack.
 - Certain recipes and resources come from [Vanilla Tweaks](https://vanillatweaks.net/). Check them out!
 - World Border adapted from [How To Make a Simple WORLD BORDER in Minecraft Bedrock!](https://www.youtube.com/watch?v=FuCK1e7d_as&t=1s) by [silentwisperer](https://www.youtube.com/@silentwisperer).
 - Minecart Tweaks adapted from [Faster Minecarts Addon](https://mcpedl.com/faster-minecarts-addon/) by MadMinecraftModder.
