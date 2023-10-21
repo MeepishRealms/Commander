@@ -4,7 +4,7 @@
     "description": {
       "identifier": "cmdr:blasting_rotten_flesh"
     },
-    "tags": ["furnace", "blast_furnace"],
+    "tags": ["blast_furnace"],
     "input": "minecraft:rotten_flesh",
     "output": "minecraft:leather"
   }
