@@ -12,7 +12,8 @@
           "count": 2
         },
         {
-          "item": "minecraft:red_dye"
+          "item": "minecraft:red_dye",
+          "count": 1
         }
       ],
       "result": {
