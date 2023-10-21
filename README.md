@@ -1,4 +1,4 @@
-!(Commander)[https://raw.githubusercontent.com/MeepishRealms/Commander/main/logo.svg]
+![Commander](https://raw.githubusercontent.com/MeepishRealms/Commander/main/logo.svg)
 A balancing and quality-of-life behavior pack for Minecraft Bedrock.
 All-in-one backend to power community survival PVP Minecraft servers.
 
