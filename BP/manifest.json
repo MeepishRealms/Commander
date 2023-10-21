@@ -4,7 +4,7 @@
       "description": "A balancing and quality-of-life behavior pack.",
       "name": "Commander",
       "uuid": "85536060-a7bd-4730-8077-8a7784572b0e",
-      "version": [1, 0, 2],
+      "version": [1, 0, 3],
       "min_engine_version": [1, 20, 0]
     },
     "modules": [
