@@ -1,0 +1,13 @@
+{
+  "format_version": "1.20",
+      "minecraft:recipe_smithing_transform": {
+          "description": {
+              "identifier": "cmdr:smithing_golden_apple"
+          },
+       "tags": ["smithing_table"],
+       "template": "minecraft:netherite_upgrade_smithing_template",
+       "base": "minecraft:golden_apple",
+          "addition": "minecraft:netherite_ingot",
+          "result": "minecraft:enchanted_golden_apple"
+      }
+  }
