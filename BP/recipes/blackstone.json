@@ -2,9 +2,8 @@
   "format_version": "1.20",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "minecraft:blackstone"
+      "identifier": "cmdr:blackstone"
     },
-    "tags": ["crafting_table"],
     "pattern": [
       "$#",
       "#$"
