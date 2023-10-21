@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "cmdr:tuff"
+      },
+      "pattern": [
+        "BB",
+        "BC"
+      ],
+      "key": {
+        "B": {
+          "item": "minecraft:basalt"
+        },
+        "C": {
+            "item": "minecraft:cobblestone"
+        }
+      },
+      "result": {
+        "item": "minecraft:tuff",
+        "count": 4
+      }
+    }
+  }
+  

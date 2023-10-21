@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "cmdr:calcite"
+      },
+      "pattern": [
+        "QD",
+        "DQ"
+      ],
+      "key": {
+        "D": {
+          "item": "minecraft:diorite"
+        },
+        "Q": {
+            "item": "minecraft:quartz"
+        }
+      },
+      "result": {
+        "item": "minecraft:calcite",
+        "count": 4
+      }
+    }
+  }
+  
