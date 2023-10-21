@@ -4,37 +4,21 @@
       "description": {
       "identifier": "vt:red_sand"
       },
+      "tags": ["crafting_table"],
       "ingredients": [
         {
-          "item": "minecraft:sand"
+          "item": "minecraft:sand",
+          "data": 1,
+          "count": 8
         },
         {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:sand"
-        },
-        {
-          "item": "minecraft:red_dye"
+          "item": "minecraft:red_dye",
+          "count": 1
         }
       ],
       "result": {
-        "item": "minecraft:red_sand",
+        "item": "minecraft:sand",
+        "data": 1,
         "count": 8
       }
     }

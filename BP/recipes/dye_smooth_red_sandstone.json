@@ -4,19 +4,20 @@
       "description": {
       "identifier": "vt:smooth_red_sandstone"
       },
+      "tags": ["crafting_table"],
       "ingredients": [
         {
-          "item": "minecraft:smooth_sandstone"
-        },
-        {
-          "item": "minecraft:smooth_sandstone"
+          "item": "minecraft:smooth_sandstone",
+          "data": 3,
+          "count": 2
         },
         {
           "item": "minecraft:red_dye"
         }
       ],
       "result": {
-        "item": "minecraft:smooth_red_sandstone",
+        "item": "minecraft:red_sandstone",
+        "data": 3,
         "count": 2
       }
     }

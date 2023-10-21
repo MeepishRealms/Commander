@@ -1,21 +1,20 @@
 {
     "format_version": "1.20",
-    "minecraft:recipe_shaped": {
+    "minecraft:recipe_shapeless": {
       "description": {
         "identifier": "cmdr:tuff"
       },
-      "pattern": [
-        "BB",
-        "BC"
-      ],
-      "key": {
-        "B": {
-          "item": "minecraft:basalt"
+      "tags": ["crafting_table"],
+      "ingredients": [
+        {
+          "item": "minecraft:basalt",
+          "count": 3
         },
-        "C": {
-            "item": "minecraft:cobblestone"
+        {
+          "item": "minecraft:cobblestone",
+          "count": 1
         }
-      },
+      ],
       "result": {
         "item": "minecraft:tuff",
         "count": 4
