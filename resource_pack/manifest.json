@@ -4,7 +4,7 @@
       "description": "Small tweaks and accompanying resources.",
       "name": "MRUI for Commander",
       "uuid": "103760db-cc2f-4c22-bf1d-357428611877",
-      "version": [5, 0, 0],
+      "version": [5, 1, 0],
       "min_engine_version": [1, 20, 0]
     },
     "modules": [
@@ -12,7 +12,7 @@
         "description": "MRUIv5",
         "type": "resources",
         "uuid": "dc6a490e-b8ed-4618-af2f-563139eb6473",
-        "version": [5, 0, 0]
+        "version": [5, 1, 0]
       }
     ]
   }
