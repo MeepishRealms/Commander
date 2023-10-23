@@ -1,7 +1,8 @@
-clear @a ender_chest
+clear @a[tag=!MOD] ender_chest
 kill @e[type=item,name="Ender Chest"]
-execute at @a run fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace ender_chest
-clear @a ender_eye
+execute at @a[tag=!MOD] run fill ~-10 ~-10 ~-10 ~10 ~10 ~10 air replace ender_chest
+clear @a[tag=!MOD] ender_eye
 kill @e[type=item,name="Eye of Ender"]
-clear @a elytra
-kill @e[type=item,name="Elytra"]
+clear @a[tag=!MOD] elytra
+clear @a[tag=!MOD] empty_map 2
+clear @a[tag=!MOD] filled_map 2
