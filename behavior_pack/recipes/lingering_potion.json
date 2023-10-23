@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_brewing_container": {
+    "description": {
+      "identifier": "cmdr:brew_potion_lingering"
+    },
+    "tags": ["brewing_stand"],
+    "input": "minecraft:splash_potion",
+    "reagent": "minecraft:echo_shard",
+    "output": "minecraft:lingering_potion"
+  }
+}
