@@ -1,0 +1,32 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "cmdr:corrupt_amethyst_shard"
+    },
+    "tags": ["crafting_table"],
+    "ingredients": [
+      {
+        "item": "minecraft:amethyst_shard",
+        "count": 6
+      },
+      {
+        "item": "minecraft:sculk_catalyst",
+        "count": 1
+      },
+      {
+        "item": "minecraft:fire_charge",
+        "count": 1
+      },
+      {
+        "item": "minecraft:soul_sand",
+        "count": 1
+      }
+    ]
+    },
+    "result": {
+      "item": "minecraft:echo_shard",
+      "count": 6
+    }
+}
+
