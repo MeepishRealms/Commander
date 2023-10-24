@@ -19,4 +19,3 @@ Disclaimer: Commander is not for public use, and is open sourced only to allow a
 - Death Coordinates module adapted from MyNameIsDIG's [Death Coordinates with Dimension](https://mcpedl.com/mynameisdig-death-coordinates/) pack.
 - Certain recipes and resources come from [Vanilla Tweaks](https://vanillatweaks.net/). Check them out!
 - World Border adapted from [How To Make a Simple WORLD BORDER in Minecraft Bedrock!](https://www.youtube.com/watch?v=FuCK1e7d_as&t=1s) by [silentwisperer](https://www.youtube.com/@silentwisperer).
-- Minecart Tweaks adapted from [Faster Minecarts Addon](https://mcpedl.com/faster-minecarts-addon/) by MadMinecraftModder.
