@@ -22,11 +22,11 @@
         "item": "minecraft:soul_sand",
         "count": 1
       }
-    ]
-    },
+    ],
     "result": {
       "item": "minecraft:echo_shard",
       "count": 6
     }
+  }
 }
 
