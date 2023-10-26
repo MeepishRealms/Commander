@@ -1,0 +1,48 @@
+{
+	"format_version": 1.20,
+	"minecraft:item": {
+		"description": {
+			"identifier": "minecraft:milk_bucket"
+		},
+		"components": {
+			"minecraft:use_duration": 32,
+			"minecraft:max_stack_size": 16,
+			"minecraft:food": {
+				"can_always_eat": true,
+				"using_converts_to": "bucket",
+				"remove_effects": [
+					"speed",
+					"slowness",
+					"haste",
+					"mining_fatigue",
+					"strength",
+					"instant_health",
+					"instant_damage",
+					"jump_boost",
+					"nausea",
+					"regeneration",
+					"resistance",
+					"fire_resistance",
+					"water_breathing",
+					"invisibility",
+					"blindness",
+					"night_vision",
+					"hunger",
+					"weakness",
+					"poison",
+					"wither",
+					"health_boost",
+					"absorption",
+					"saturation",
+					"levitation",
+					"fatal_poison",
+					"slow_falling",
+					"conduit_power",
+					"bad_omen",
+					"village_hero",
+					"darkness"
+				]
+			}
+		}
+	}
+}
