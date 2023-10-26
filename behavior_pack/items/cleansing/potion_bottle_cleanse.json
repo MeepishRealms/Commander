@@ -1,0 +1,56 @@
+{
+    "format_version": "1.20",
+    "minecraft:item": {
+        "description": {
+            "identifier": "cmdr:potion_bottle_cleanse",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "potion_bottle_cleanse"
+            },
+            "minecraft:display_name": {
+                "value": "Potion of Cleansing \n§7Removes Negative Effects"
+            },
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.potion"
+            },
+            "minecraft:use_duration": 1.6,
+            "minecraft:food": {
+                "can_always_eat": true,
+                "nutrition": 4,
+                "saturation_modifier": "low",
+                "using_converts_to": "minecraft:glass_bottle",
+                "on_consume": {
+                    "event": "on_consume",
+                    "target": "self"
+                }
+            },
+            "minecraft:use_animation": "drink",
+            "minecraft:max_stack_size": 16,
+            "minecraft:hand_equipped": true,
+            "minecraft:allow_off_hand": false,
+            "minecraft:foil": true
+        },
+        "events": {
+            "on_consume": {
+                "run_command": {
+                    "command": [
+                        "effect @s bad_omen 0 0",
+                        "effect @s blindness 0 0",
+                        "effect @s fatal_poison 0 0",
+                        "effect @s hunger 0 0",
+                        "effect @s levitation 0 0",
+                        "effect @s mining_fatigue 0 0",
+                        "effect @s nausea 0 0",
+                        "effect @s poison 0 0",
+                        "effect @s slowness 0 0",
+                        "effect @s weakness 0 0",
+                        "effect @s wither 0 0",
+                        "titleraw @s actionbar {\"rawtext\":[{\"text\": \"§bCleansed\"}]}"
+                    ]
+                }
+            }
+        }
+    }
+}
