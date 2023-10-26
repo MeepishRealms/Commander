@@ -10,7 +10,7 @@
                 "texture": "potion_bottle_absorption"
             },
             "minecraft:display_name": {
-                "value": "Potion of Vitality \n§7Absorption III (10:00)"
+                "value": "Potion of Vitality \n§7Absorption II (10:00)"
             },
             "minecraft:creative_category": {
                 "parent": "itemGroup.name.potion"
@@ -37,7 +37,7 @@
                 "add_mob_effect": {
                     "effect": "absorption",
                     "duration": 120,
-                    "amplifier": 2,
+                    "amplifier": 1,
                     "target": "holder"
                 }
             }

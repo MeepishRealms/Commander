@@ -10,7 +10,7 @@
                 "texture": "potion_bottle_resistance"
             },
             "minecraft:display_name": {
-                "value": "Potion of Ironskin \n§7Resistance II (0:13)"
+                "value": "Potion of Ironskin \n§7Resistance II (0:30)"
             },
             "minecraft:creative_category": {
                 "parent": "itemGroup.name.potion"
@@ -36,7 +36,7 @@
             "on_consume": {
                 "add_mob_effect": {
                     "effect": "resistance",
-                    "duration": 13,
+                    "duration": 30,
                     "amplifier": 1,
                     "target": "holder"
                 }

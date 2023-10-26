@@ -47,7 +47,7 @@
                         "effect @s slowness 0 0",
                         "effect @s weakness 0 0",
                         "effect @s wither 0 0",
-                        "titleraw @s actionbar {\"rawtext\":[{\"text\": \"§bCleansed\"}]}"
+                        "titleraw @s actionbar {\"rawtext\":[{\"text\": \"§3[ CLEANSED ]\"}]}"
                     ]
                 }
             }

@@ -10,7 +10,7 @@
                 "texture": "splash_bottle_absorption"
             },
             "minecraft:display_name": {
-                "value": "Splash Potion of Vitality \n§7Absorption III (2:00)"
+                "value": "Splash Potion of Vitality \n§7Absorption II (2:00)"
             },
             "minecraft:creative_category": {
                 "parent": "itemGroup.name.splashPotion"

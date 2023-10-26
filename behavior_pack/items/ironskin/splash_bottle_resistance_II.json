@@ -10,7 +10,7 @@
                 "texture": "splash_bottle_resistance"
             },
             "minecraft:display_name": {
-                "value": "Splash Potion of Ironskin \n§7Resistance II (0:07)"
+                "value": "Splash Potion of Ironskin \n§7Resistance II (0:20)"
             },
             "minecraft:creative_category": {
                 "parent": "itemGroup.name.splashPotion"
