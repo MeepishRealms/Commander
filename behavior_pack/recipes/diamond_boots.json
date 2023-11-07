@@ -1,0 +1,25 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "minecraft:diamond_boots"
+      },
+      "tags": ["crafting_table"],
+      "pattern": [
+        "D D",
+        " B "
+      ],
+      "key": {
+        "D": {
+          "item": "minecraft:diamond"
+        },
+        "B": {
+          "item": "minecraft:diamond_block"
+        }
+      },
+      "result": {
+        "item": "minecraft:diamond_boots"
+      }
+    }
+}
+  
