@@ -6,22 +6,14 @@
       },
       "tags": ["crafting_table"],
       "pattern": [
-        " B ",
-        "DGD",
-        "OOO"
+        "EB"
       ],
       "key": {
         "B": {
-          "item": "minecraft:book"
+          "item": "minecraft:barrier"
         },
-        "D": {
-          "item": "minecraft:diamond"
-        },
-        "G": {
-          "item": "minecraft:glowstone"
-        },
-        "O": {
-          "item": "minecraft:obsidian"
+        "E": {
+          "item": "minecraft:enchanting_table"
         }
       },
       "result": {
