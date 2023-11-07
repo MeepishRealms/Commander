@@ -6,12 +6,14 @@
       },
       "tags": ["crafting_table"],
       "pattern": [
-        "NNN",
-        "N N"
+        "NL"
       ],
       "key": {
         "N": {
           "item": "minecraft:iron_nugget"
+        },
+        "L": {
+          "item": "minecraft:leather_helmet"
         }
       },
       "result": {
