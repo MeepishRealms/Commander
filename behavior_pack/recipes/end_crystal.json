@@ -1,0 +1,29 @@
+{
+    "format_version": "1.20",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "minecraft:end_crystal"
+      },
+      "tags": ["crafting_table"],
+      "pattern": [
+        "GGG",
+        "GtG",
+        "GgG"
+      ],
+      "key": {
+        "t": {
+          "item": "minecraft:ghast_tear"
+        },
+        "G": {
+          "item": "minecraft:glass"
+        },
+        "g": {
+          "item": "minecraft:gunpowder"
+        }
+      },
+      "result": {
+        "item": "minecraft:end_crystal"
+      }
+    }
+  }
+  

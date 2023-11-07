@@ -1,0 +1,23 @@
+{
+  "format_version": "1.20",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "minecraft:rail"
+    },
+    "tags": ["crafting_table"],
+    "pattern": [
+      "NSN"
+    ],
+    "key": {
+      "S": {
+        "item": "minecraft:stick"
+      },
+      "N": {
+        "item": "minecraft:iron_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:rail"
+    }
+  }
+}
