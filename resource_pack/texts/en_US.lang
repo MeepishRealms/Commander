@@ -1,4 +1,5 @@
 tile.glowingobsidian.name=Glowing Obsidian
 tile.netherreactor.name=Nether Reactor Core
-item.cmdr:abyss_spore=§bAbyss Spore
+item.cmdr:abyss_spore=§bAbyssal Spore
 item.cmdr:pure_root=§ePure Root
+item.cmdr:explosive_arrow=Explosive Arrow
