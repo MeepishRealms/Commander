@@ -2,19 +2,22 @@
   "format_version": "1.20",
   "minecraft:recipe_shaped": {
     "description": {
-      "identifier": "cmdr:cobweb"
+      "identifier": "minecraft:rail"
     },
     "tags": ["crafting_table"],
     "pattern": [
-      "SSS"
+      "NSN"
     ],
     "key": {
       "S": {
-        "item": "minecraft:string"
+        "item": "minecraft:stick"
+      },
+      "N": {
+        "item": "minecraft:iron_nugget"
       }
     },
     "result": {
-      "item": "minecraft:web"
+      "item": "minecraft:rail"
     }
   }
 }

@@ -2,22 +2,23 @@
     "format_version": "1.20",
     "minecraft:recipe_shaped": {
       "description": {
-        "identifier": "minecraft:enchanting_table"
+        "identifier": "minecraft:iron_leggings"
       },
       "tags": ["crafting_table"],
       "pattern": [
-        "EB"
+        "INI",
+        "N N"
       ],
       "key": {
-        "B": {
-          "item": "minecraft:barrier"
+        "N": {
+          "item": "minecraft:iron_nugget"
         },
-        "E": {
-          "item": "minecraft:enchanting_table"
+        "I": {
+          "item": "minecraft:iron_ingot"
         }
       },
       "result": {
-        "item": "minecraft:enchanting_table"
+        "item": "minecraft:iron_leggings"
       }
     }
 }
