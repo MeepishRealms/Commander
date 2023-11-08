@@ -1,5 +1,5 @@
 {
-    "format_version": "1.20",
+    "format_version": 1.20,
     "minecraft:item": {
         "description": {
             "identifier": "cmdr:potion_bottle_mining_fatigue_II",
