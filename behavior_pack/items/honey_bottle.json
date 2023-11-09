@@ -14,7 +14,8 @@
 				"using_converts_to": "glass_bottle",
 				"remove_effects": [
 					"poison",
-					"wither"
+					"wither",
+					"lethal_poison"
 				]
 			}
 		}
