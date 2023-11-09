@@ -2,22 +2,23 @@
     "format_version": "1.20",
     "minecraft:recipe_shaped": {
       "description": {
-        "identifier": "minecraft:enchanting_table"
+        "identifier": "minecraft:iron_sword"
       },
       "tags": ["crafting_table"],
       "pattern": [
-        "EB"
+        " I",
+        "S "
       ],
       "key": {
-        "B": {
-          "item": "minecraft:barrier"
+        "S": {
+          "item": "minecraft:stick"
         },
-        "E": {
-          "item": "minecraft:enchanting_table"
+        "I": {
+          "item": "minecraft:iron_ingot"
         }
       },
       "result": {
-        "item": "minecraft:enchanting_table"
+        "item": "minecraft:iron_sword"
       }
     }
 }

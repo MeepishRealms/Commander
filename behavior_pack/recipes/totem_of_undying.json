@@ -6,8 +6,8 @@
     },
     "tags": ["crafting_table"],
     "pattern": [
-      "DgD",
-      "BSB",
+      "DGD",
+      "GgG",
       " G "
     ],
     "key": {
@@ -19,12 +19,6 @@
       },
       "g": {
         "item": "minecraft:golden_apple"
-      },
-      "B": {
-        "item": "minecraft:gold_block"
-      },
-      "S": {
-        "item": "minecraft:netherite_scrap"
       }
     },
     "result": {

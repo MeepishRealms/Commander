@@ -6,9 +6,9 @@
     },
     "tags": ["crafting_table"],
     "pattern": [
-      "GGG",
-      "GPG",
-      "GGG"
+      "PSP",
+      "SGS",
+      "PSP"
     ],
     "key": {
       "G": {
@@ -16,6 +16,9 @@
       },
       "P": {
         "item": "minecraft:paper"
+      },
+      "S": {
+        "item": "minecraft:sand"
       }
     },
     "result": {

@@ -6,13 +6,15 @@
       },
       "tags": ["crafting_table"],
       "pattern": [
-        "N N",
-        "NNN",
+        " L ",
         "NNN"
       ],
       "key": {
         "N": {
           "item": "minecraft:iron_nugget"
+        },
+        "L": {
+          "item": "minecraft:leather_chestplate"
         }
       },
       "result": {
