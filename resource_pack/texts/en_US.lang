@@ -1,2 +1,11 @@
 tile.glowingobsidian.name=Glowing Obsidian
 tile.netherreactor.name=Nether Reactor Core
+potion.nightVision.name=Potion of Sight
+potion.waterBreathing.name=Potion of Respiration
+potion.slowFalling.name=Potion of Grace
+potion.moveSlowdown.name=Potion of Encumbrance
+potion.weakness.name=Potion of Debilitation
+item.cmdr:coin=Coin
+item.cmdr:abyss_spore=§bAbyssal Spore
+item.cmdr:pure_root=§ePure Root
+item.cmdr:explosive_arrow=Explosive Arrow

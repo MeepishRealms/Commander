@@ -1,0 +1,46 @@
+{
+    "format_version": "1.20",
+    "minecraft:item": {
+        "description": {
+            "identifier": "cmdr:potion_bottle_fatal_poison",
+            "category": "equipment"
+        },
+        "components": {
+            "minecraft:icon": {
+                "texture": "potion_bottle_fatal_poison"
+            },
+            "minecraft:display_name": {
+                "value": "Potion of Maitotoxin \n§cMaitotoxin (0:20)"
+            },
+            "minecraft:creative_category": {
+                "parent": "itemGroup.name.potion"
+            },
+            "minecraft:use_duration": 1.6,
+            "minecraft:food": {
+                "can_always_eat": true,
+                "nutrition": 4,
+                "saturation_modifier": "low",
+                "using_converts_to": "minecraft:glass_bottle",
+                "on_consume": {
+                    "event": "on_consume",
+                    "target": "self"
+                }
+            },
+            "minecraft:use_animation": "drink",
+            "minecraft:max_stack_size": 16,
+            "minecraft:hand_equipped": true,
+            "minecraft:allow_off_hand": false,
+            "minecraft:foil": true
+        },
+        "events": {
+            "on_consume": {
+                "add_mob_effect": {
+                    "effect": "fatal_poison",
+                    "duration": 20,
+                    "amplifier": 2,
+                    "target": "holder"
+                }
+            }
+        }
+    }
+}
