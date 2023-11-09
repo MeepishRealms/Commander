@@ -6,3 +6,6 @@ potion.slowFalling.name=Potion of Grace
 potion.moveSlowdown.name=Potion of Encumbrance
 potion.weakness.name=Potion of Debilitation
 item.cmdr:coin=Coin
+item.cmdr:abyss_spore=§bAbyssal Spore
+item.cmdr:pure_root=§ePure Root
+item.cmdr:explosive_arrow=Explosive Arrow
