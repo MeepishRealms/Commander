@@ -2,6 +2,7 @@
     "values": [
         "border", 
         "warning", 
-        "itembans"
+        "itembans",
+        "echest-limiter"
     ]
 }
