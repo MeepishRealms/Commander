@@ -1,7 +1,7 @@
-replaceitem entity @a[tag=ecu1] slot.enderchest 3 barrier
-replaceitem entity @a[tag=ecu1] slot.enderchest 4 barrier
-replaceitem entity @a[tag=ecu1,tag=ecu2] slot.enderchest 5 barrier
-replaceitem entity @a[tag=ecu1,tag=ecu2] slot.enderchest 6 barrier
+replaceitem entity @a[tag=!ecu1] slot.enderchest 3 barrier
+replaceitem entity @a[tag=!ecu1] slot.enderchest 4 barrier
+replaceitem entity @a[tag=!ecu2] slot.enderchest 5 barrier
+replaceitem entity @a[tag=!ecu2] slot.enderchest 6 barrier
 replaceitem entity @a slot.enderchest 7 barrier
 replaceitem entity @a slot.enderchest 8 barrier
 replaceitem entity @a slot.enderchest 9 barrier

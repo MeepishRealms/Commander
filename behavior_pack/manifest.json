@@ -1,10 +1,10 @@
 {
     "format_version": 2,
     "header": {
-      "description": "Powers special SMP features.",
+      "description": "(v2.0.1) Powers special SMP features.",
       "name": "Commander",
       "uuid": "85536060-a7bd-4730-8077-8a7784572b0e",
-      "version": [1, 3, 1],
+      "version": [2, 0, 1],
       "min_engine_version": [1, 20, 40]
     },
     "modules": [
@@ -12,7 +12,7 @@
         "description": "Commander by MeepishRealms",
         "type": "data",
         "uuid": "efd9034e-f7a5-42fd-886e-63ac21bbcddd",
-        "version": [1, 3, 1]
+        "version": [2, 0, 1]
       },
       {
         "type": "script",
@@ -25,7 +25,7 @@
     "dependencies": [
       {
         "uuid": "103760db-cc2f-4c22-bf1d-357428611877",
-        "version": [5, 1, 0]
+        "version": [6, 0, 0]
       },
       {
         "module_name": "@minecraft/server",
